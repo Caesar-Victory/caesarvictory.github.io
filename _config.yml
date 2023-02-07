@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: https://github.com/Caesar-Victory/
   card: summary
 logo: logo.png
 social:
   name: CaesarVictory
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/Caesar-Victory/
+    - https://github.com/Caesar-Victory/
 google_site_verification: xxxxx
 lang: en
 
