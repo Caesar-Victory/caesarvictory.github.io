@@ -1,9 +1,9 @@
 - title: 雨雀博客
   url: https://www.yuque.com/caesar-mxdug/lb14ka?#
-  icon: fa-blog
+  icon: fa-solid fa-blog
 - title: BiliBili
   url: https://space.bilibili.com/1909083740?spm_id_from=333.1007.0.0
-  icon: fa-bilibili
+  icon: fa-brands fa-bilibili
 - title: Email
   url: mailto://caesartylor@gmail.com
-  icon: fa-envelope
+  icon: fas fa-envelope
