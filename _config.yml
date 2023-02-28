@@ -1,11 +1,14 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: The Blog of CaesarTylor
+description: pursue the extreme
+url: https://whereabouts.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
+cover_bg_color: rgb(199, 207, 234)
+cover_color: rgb(110, 123, 108)
+
 
 # Gems
 plugins:
